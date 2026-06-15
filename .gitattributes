@@ -1,0 +1,4 @@
+# Normalize line endings; mark generated binaries so diffs/linguist behave.
+* text=auto eol=lf
+*.png binary
+*.xlsx binary
